@@ -1,4 +1,4 @@
-##GitLab 中文指南
+## GitLab 中文指南
 这个项目是我对 GitLab Documentation 的个人理解/翻译
 
        
