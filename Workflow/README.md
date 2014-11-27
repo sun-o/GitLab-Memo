@@ -1,5 +1,5 @@
 - [基本工作流](workflow.md)
-- 项目特性
+- [项目特性](project_features.md)
 - 分支合并授权
 - 群组
 - 标签
